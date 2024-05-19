@@ -50,7 +50,7 @@ The app has a dark mode toggle in the Navbar component, but the preference does 
 
 2. Build a hook called that takes in a key value and an initialValue.
 
-3. Use the code from the learning objective to build the the hook.
+3. Use the code from the learning objective to build the hook.
 
 #### 👉 TASK 3 - Compose useLocalStorage around useDarkMode
 
